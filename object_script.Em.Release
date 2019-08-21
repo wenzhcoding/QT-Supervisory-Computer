@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\qcustomplot.o
+./release\qcw_indicatorlamp.o
+./release\widget.o
+./release\shuoming.o
+./release\dayin.o
+./release\moc_mainwindow.o
+./release\moc_qcustomplot.o
+./release\moc_qcw_indicatorlamp.o
+./release\moc_widget.o
+./release\moc_shuoming.o
+./release\moc_dayin.o
+);

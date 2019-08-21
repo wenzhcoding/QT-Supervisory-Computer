@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\qcustomplot.o
+./debug\qcw_indicatorlamp.o
+./debug\widget.o
+./debug\shuoming.o
+./debug\dayin.o
+./debug\moc_mainwindow.o
+./debug\moc_qcustomplot.o
+./debug\moc_qcw_indicatorlamp.o
+./debug\moc_widget.o
+./debug\moc_shuoming.o
+./debug\moc_dayin.o
+);
